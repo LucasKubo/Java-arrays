@@ -1,5 +1,6 @@
 # Java-arrays
 Exercício de fixação (array)
+
 Descrição: A dona de um pensionato possui dez quartos para alugar para estudantes,
 sendo esses quartos identificados pelos números 0 a 9.
 Fazer um programa que inicie com todos os dez quartos vazios, e depois
